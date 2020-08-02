@@ -1,0 +1,17 @@
+{
+    "name": "idealogica/payssion-php",
+    "description": "payssion/payssion-php composer adaptation",
+    "keywords": ["payment", "payssion", "php"],
+    "homepage": "https://github.com/idealogica/payssion-php",
+    "require":
+    {
+        "php": ">=5.3",
+    },
+    "autoload":
+    {
+        "files":
+        [
+            "lib/PayssionClient.php"
+        ]
+    }
+}
