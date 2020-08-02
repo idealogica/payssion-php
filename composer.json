@@ -5,7 +5,7 @@
     "homepage": "https://github.com/idealogica/payssion-php",
     "require":
     {
-        "php": ">=5.3",
+        "php": ">=5.3"
     },
     "autoload":
     {
